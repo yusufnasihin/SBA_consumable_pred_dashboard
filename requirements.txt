@@ -1,0 +1,11 @@
+streamlit
+streamlit-gsheets
+pandas
+numpy
+plotly
+altair
+scipy
+statsmodels
+scikit-learn
+openpyxl
+datetime
